@@ -3,7 +3,7 @@
 # Proyecto final grupal/ Bootcamp EGG Tech - Programación Full Stack
 <img src=https://user-images.githubusercontent.com/102770961/179436417-f4a82e85-a4fe-4231-91b2-dd24f0723a00.png width="700">
 
-Astral Tinder es una app de citas desarrollada con Spring Boot implementando MVC cómo patrón de arquitectura.
+Astral Tinder es una app de citas desarrollada con Spring Boot implementando MVC como patrón de arquitectura.
 Usamos el API de persistencia de Java para moldear capa de acceso a datos. Aprovechamos el soporte que JPA proporciona para la ejecución de consultas SQL, así logramos ensamblar una base de datos relacional para vincular los datos de 4 entidades User, Photo, AstralPlane y Vote, necesarias para llevar a cabo la lógica del negocio.
 
 <img src=https://user-images.githubusercontent.com/102770961/179436193-43e9b36f-842d-41cb-adf0-52e933d5bf7b.png width="700">
