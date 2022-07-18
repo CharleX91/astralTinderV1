@@ -1,6 +1,6 @@
-# ASTRAL TINDER
+# ASTRAL TINDER - Spring Boot App 
 
-# Proyecto final grupal/ Bootcamp EGG Tech - Java Spring Boot 
+# Proyecto final grupal/ Bootcamp EGG Tech - Programación Full Stack
 <img src=https://user-images.githubusercontent.com/102770961/179436417-f4a82e85-a4fe-4231-91b2-dd24f0723a00.png width="700">
 
 Astral Tinder es una app de citas desarrollada con Spring Boot implementando MVC cómo patrón de arquitectura.
@@ -13,3 +13,4 @@ Al igual que otras aplicaciones de citas, nuestro proyecto requiere un perfil, f
 Los usuarios reciben coincidencias con otros usuarios, respecto a su compatibilidad astral general puntuada por nuestra app, pudiendo mandar "me gusta" o "siguiente" entre usuarios mostrados de manera aleatoria (nombre, foto, edad e info astral). Si ambos se gustan se desbloquea la posibilidad de acceder a información de contacto para comunicarse. Y lo más importante, esta aplicación hace que las cartas natales de los usuarios coincidentes ("Matches") estén disponibles entre sí para posteriores consultas.
 
 <img src=https://user-images.githubusercontent.com/102770961/179436446-d5a5ed65-b682-47a0-8c32-54b7c7f3b85c.png width="700">
+
